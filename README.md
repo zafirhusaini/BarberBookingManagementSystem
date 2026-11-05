@@ -36,4 +36,4 @@ Push these files to a GitHub repository. In **Settings → Pages**, select **Dep
 
 ## Customer and administrator views
 
-Sign in with the demo administrator account to manage records and analytics. Register a new account and sign in to see the customer booking page, request appointments, and cancel pending or confirmed bookings. To see those bookings as the administrator, sign out and sign back in on the **same browser and site address**. This is a localStorage prototype: different browsers, devices, and site addresses do not share bookings. Roles and passwords are simulated in client-side code and do not provide real security.
+Sign in with the demo administrator account to manage records and analytics. Register a new account to be signed in automatically as a customer and see the booking page, request appointments, and cancel pending or confirmed bookings. To see those bookings as the administrator, sign out and sign back in on the **same browser and site address**. This is a localStorage prototype: different browsers, devices, and site addresses do not share bookings. Roles and passwords are simulated in client-side code and do not provide real security.
